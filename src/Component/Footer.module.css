@@ -1,0 +1,17 @@
+.foot{
+    margin-top: 200px;
+    color: white;
+    background-color: rgb(32, 32, 70);
+    font-size: 20px;
+    padding: 20px;
+
+}
+li{
+    list-style: none;
+}
+li a{
+ color: aliceblue;
+}
+li a:hover{
+    color: red;
+}

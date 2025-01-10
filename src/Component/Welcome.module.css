@@ -1,0 +1,14 @@
+.para{
+    font-size: 30px;
+    /* background:linear-gradient(135deg ,rgb(12, 12, 124),rgb(230, 65, 14)); */
+    width: 400px;
+    height: 80px;
+    padding: 20px;
+    font-style: italic;
+    border-radius: 20px;
+    margin: 40px;
+    color: white;
+    font-family: algerian;
+
+
+}
